@@ -105,3 +105,4 @@ then redeploy (push to git, or re-run the Netlify CLI command).
   with `/assets/...`.
 - Per-photo replacements are browser-local by design. Public listing content and images should
   be updated in source and redeployed.
+# abujashortlets
