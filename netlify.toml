@@ -1,7 +1,7 @@
 [build]
   command = "npm run build"
   publish = "dist"
-  functions = "."
+  functions = "netlify/functions"
 
 # The site is a single self-contained HTML file, so no rewrites are needed.
 [[headers]]
